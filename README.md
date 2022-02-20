@@ -101,3 +101,5 @@ Right now we only support [liberapay](https://liberapay.com/KOReader) donations,
 [link-issues-features]:https://github.com/koreader/koreader/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement
 [link-weblate]:https://hosted.weblate.org/engage/koreader/?utm_source=widget
 [link-wiki]:https://github.com/koreader/koreader/wiki
+
+Test
